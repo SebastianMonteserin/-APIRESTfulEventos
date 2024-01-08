@@ -49,7 +49,7 @@ Usuario:
 - Eventos Asociados
 
 # Prueba
--Cambiar en el explorador del VS el nombre del archico env.txt a .env.
+-Cambiar en el explorador del VS el nombre del archivo de env.txt a .env.
 -Poner en consola en la ruta del poryecto "npm isntall"
 -Se debe contar con una Base de datos Mongo DB interna, a la cual se inicia desde consola con el comando  mongod --dbpath="./ nombrebase"  en la ruta donde hubicaremos el archivo.
 - Corremos con npm run watch
