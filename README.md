@@ -49,7 +49,7 @@ Usuario:
 - Eventos Asociados
 
 # Prueba
--Priemro se debe poner en consola en la ruta del poryecto "npm isntall"
+-Poner en consola en la ruta del poryecto "npm isntall"
 -Se debe contar con una Base de datos Mongo DB interna, a la cual se inicia desde consola con el comando  mongod --dbpath="./ nombrebase"  en la ruta donde hubicaremos el archivo.
 - Corremos con npm run watch
 -Podemos probar los endpoints con los ejemplos que están en el siguente enlace: https://documenter.getpostman.com/view/15015098/2s9YeAAuqm
